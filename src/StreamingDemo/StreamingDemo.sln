@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingDemo.Api", "StreamingDemo.Api\StreamingDemo.Api.csproj", "{2C7C0071-4D54-4586-98C5-BD94D50E0EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7C0071-4D54-4586-98C5-BD94D50E0EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7C0071-4D54-4586-98C5-BD94D50E0EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7C0071-4D54-4586-98C5-BD94D50E0EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7C0071-4D54-4586-98C5-BD94D50E0EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83C2F6DC-A3EE-4B55-86E8-834613A99360}
+	EndGlobalSection
+EndGlobal
